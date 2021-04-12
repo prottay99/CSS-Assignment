@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+}
+h2 {
+    text-align: center;
+    font-family: candara;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.box {
+    background-color: gray;
+}
+
+.bangladesh {
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    margin: 50px auto 0px;
+    overflow: hidden;
+}
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 52px;
+    margin-left: 150px;
+    
+}
+.india {
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 50px auto 10px;
+    border-top: 100px solid orange;
+    border-bottom: 100px solid green;
+}
+.india img {
+    width: 138px;
+    margin-top: 9px;
+    margin-left: 180px;
+}
+.japan {
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto 0px;
+    overflow: hidden;
+    border: 1px solid black;
+}
+.lal {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 52px;
+    margin-left: 150px;
+}
+.jermany {
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    margin: 50px auto 20px;
+    border-top: 100px solid black;
+    border-bottom: 100px solid orange;
+}
+.argentina {
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 50px auto 20px;
+    border-top: 100px solid skyblue;
+    border-bottom: 100px solid skyblue;
+}
+.argentina img {
+    width: 80px;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.canada {
+    width: 300px;
+    height: 290px;
+    background-color: white;
+    margin: 50px auto 0px;
+    border-left: 150px solid red;
+    border-right: 150px solid red;
+    
+}
+.canada img {
+    width: 240px;
+    margin-top: 17px;
+    margin-left: 30px;
+}
+.china {
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    margin: 50px auto 0px;
+    overflow: hidden;
+
+}
+.china img {
+    width: 180px;
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+.afganistan {
+    width: 150px;
+    height: 300px;
+    background-color: red;
+    margin: 50px auto 0px;
+    border-left: 150px solid black;
+    border-right: 150px solid green;
+    
+}
+.afganistan img {
+    width: 150px;
+    margin-top: 75px;
+}
+.ethiopia {
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+    margin: 50px auto 0px;
+    border-top: 100px solid green;
+    border-bottom: 100px solid red;
+}
+.ethiopia img {
+    width: 150px;
+    margin-left: 172px;
+    margin-top: -24px;
+}
+.maldive {
+    width: 420px;
+    height: 180px;
+    background-color: green;
+    margin: 50px auto 30px;
+    border: 90px solid red;
+}
+.maldive img {
+    width: 500px;
+    margin-top: -78px;
+    margin-left: -30px;
+}
